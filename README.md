@@ -88,7 +88,7 @@ The dashboard helps HR teams and management make data-driven decisions.
 
 ## Screenshots / Demos
 Show what the dashboard looks like.
-Example:[Dashboard Preview](
+Example:[Dashboard Preview](https://github.com/rohini-data-analyst/HR-Dashboard/blob/main/Screenshot%20dashboard.png)
 
 ## 📧 Contact
 If you have any questions or suggestions, feel free to connect!
