@@ -57,14 +57,6 @@ The dashboard helps HR teams and management make data-driven decisions.
 
 ---
 
-## 🚀 How to Use
-1. Download the .pbix file
-2. Open in Power BI Desktop
-3. Explore filters and visuals
-4. Modify data as needed
-
----
-
 ## 📌 Features
 - Interactive filters (Department slicer)
 - Clean and professional UI design
