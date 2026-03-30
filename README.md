@@ -88,6 +88,8 @@ This project presents a dynamic Sales Dashboard built using Power BI to analyze 
 
 The dashboard enables stakeholders to quickly understand key metrics, track trends, and make data-driven decisions effectively.
 
+---
+
 🎯 Key Objectives
 Monitor overall Sales, Profit, and Quantity KPIs
 
@@ -100,6 +102,8 @@ Compare regional sales performance
 Evaluate target achievement vs actual performance
 
 Identify high and low-performing products using profit margin analysis
+
+---
 
 📌 Dashboard Highlights
 KPI Cards
@@ -130,6 +134,8 @@ Profit Margin Insights
 
 Product-level margin comparison for better pricing strategy
 
+---
+
 🛠️ Tools & Technologies Used
 Power BI – Data visualization and dashboard creation
 
@@ -150,6 +156,8 @@ Overall target achievement exceeds expectations (~121%)
 
 Certain products maintain higher profit margins, indicating strong profitability
 
+---
+
 💡 Business Impact
 This dashboard helps businesses to:
 
@@ -161,12 +169,16 @@ Optimize product pricing and profitability
 
 Make real-time, data-driven decisions
 
+---
+
 📂 Project Files
 Sales Dashboard.pbix – Power BI dashboard file
 
 Dataset.xlsx – Source data (if included)
 
 README.md – Project documentation
+
+---
 
 
 ⭐ Why This Project Stands Out
@@ -177,6 +189,8 @@ Strong use of KPIs and business storytelling
 Demonstrates real-world data analysis skills
 
 Suitable for business decision-making scenarios
+
+---
 
 ## Screenshots / Demos
 Show what the dashboard looks like.
