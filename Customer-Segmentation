@@ -1,0 +1,105 @@
+Customer Segmentation Dashboard (Power BI)
+🚀 Project Overview
+This project showcases a Customer Segmentation Dashboard built using Power BI to analyze customer behavior, purchasing patterns, and revenue contribution.
+
+By leveraging segmentation techniques (RFM-based insights), this dashboard helps businesses identify high-value customers, potential buyers, and low-engagement segments to drive targeted marketing strategies.
+
+---
+
+🎯 Business Objectives
+✨ Understand customer distribution across segments
+✨ Identify high-value customers for retention strategies
+✨ Analyze revenue contribution by customer segments
+✨ Track average purchase behavior
+✨ Enable data-driven marketing and sales decisions
+
+---
+
+📌 Dashboard Highlights
+🔢 Key KPIs
+👤 Total Customers: 100
+
+💰 Total Revenue: ₹1.5M+
+
+🛒 Average Purchase: ₹15K+
+
+⭐ High Value Customers: 2%
+
+---
+
+📊 Visual Insights
+🧩 Customer Segmentation (Pie Chart)
+
+Medium Value (61%)
+
+Potential (31%)
+
+Low Value (6%)
+
+High Value (2%)
+
+📈 Revenue by Segment
+
+Identifies which customer group drives the most revenue
+
+🛍️ Sales by Category
+
+Fashion, Electronics, Grocery performance comparison
+
+🌍 Customer Distribution by City (Map)
+
+Geographic insights for regional targeting
+
+📉 RFM Distribution Analysis
+
+Behavioral segmentation using Recency, Frequency, Monetary values
+
+---
+
+🛠️ Tools & Technologies
+📊 Power BI – Dashboard development
+
+🔄 Power Query – Data cleaning & transformation
+
+📐 DAX – Calculated measures & KPIs
+
+📁 Excel / CSV – Data source
+
+---
+
+📈 Key Insights
+✔ Majority customers fall under Medium Value segment (61%)
+✔ Only 2% customers contribute as High Value → high retention opportunity
+✔ Medium segment drives the highest revenue contribution
+✔ Category analysis shows strong performance in Fashion & Electronics
+✔ RFM analysis helps identify loyal vs inactive customers
+
+---
+
+💡 Business Impact
+This dashboard enables businesses to:
+
+🎯 Target the right customers with personalized campaigns
+
+📊 Improve customer retention strategies
+
+💰 Maximize revenue from high-value segments
+
+🔍 Identify growth opportunities in untapped segments
+
+---
+
+📂 Project Structure
+📁 Customer Segmentation Dashboard.pbix
+
+📁 Dataset.xlsx
+
+📄 README.md
+
+---
+
+⭐ Why This Project Stands Out
+🔥 Real-world customer analytics use case
+🔥 Strong use of RFM segmentation technique
+🔥 Clean, interactive, and business-focused dashboard design
+🔥 Demonstrates data storytelling & analytical thinking
