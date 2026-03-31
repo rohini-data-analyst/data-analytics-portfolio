@@ -87,9 +87,12 @@ Show what the dashboard looks like.
 If you have any questions or suggestions, feel free to connect!
 
 
+
 # 2. Sales-Dashboard
  Sales Performance Dashboard (Power BI)
+ 
 🚀 Project Overview
+
 This project presents a dynamic Sales Dashboard built using Power BI to analyze and visualize business performance across multiple dimensions such as sales, profit, quantity, region, and product categories.
 
 The dashboard enables stakeholders to quickly understand key metrics, track trends, and make data-driven decisions effectively.
