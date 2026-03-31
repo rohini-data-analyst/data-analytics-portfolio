@@ -5,7 +5,9 @@ Welcome to my Data Analytics Portfolio showcasing projects built using Power BI.
 ## 🚀 Projects
 
 • HR Analytics Dashboard | Power BI
+
 • Sales Performance Dashboard | Power BI
+
 • Customer Segmentation Dashboard | Power BI
 
 # 1. HR-Dashboard
