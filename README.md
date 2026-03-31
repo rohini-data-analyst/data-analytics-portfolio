@@ -269,6 +269,7 @@ Behavioral segmentation using Recency, Frequency, Monetary values
 ---
 
 📈 Key Insights
+
 ✔ Majority customers fall under Medium Value segment (61%)
 
 ✔ Only 2% customers contribute as High Value → high retention opportunity
