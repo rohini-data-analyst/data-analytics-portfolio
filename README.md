@@ -146,6 +146,7 @@ Product-level margin comparison for better pricing strategy
 ---
 
 🛠️ Tools & Technologies Used
+
 Power BI – Data visualization and dashboard creation
 
 Power Query – Data transformation and cleaning
